@@ -18,6 +18,4 @@ function assocIndexOf(array, key) {
 	return -1;
 }
 
-// console.log(assocIndexOf([1,2,3], 2));
-
 export default assocIndexOf;
