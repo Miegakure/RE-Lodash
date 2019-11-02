@@ -1,7 +1,5 @@
 /** Используется для замены неопределенных хэш-значений */
 const HASH_UNDEFINED = '__lodash_hash_undefined__';
-//while(True):
-//pyautogui.press('space')
 class Hash {
 	/**
 	 * Создает хэш обект.
