@@ -1,5 +1,6 @@
 import Hash from './Hash';
 
+
 /**
  * Возвращает данные для map.
  * 
